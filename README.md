@@ -124,7 +124,7 @@ mission: "Improve people's lives through technology."
 ## Projects
 
 * 🧠 **[Webrix](https://webrix.ai)** - Contributions to the secure MCP gateway connecting AI agents to enterprise systems
-* 🇧🇷 **[Welcome to Brazil](https://welcometobrazil.online)** - Complete guide for foreigners to visit, live, and thrive in Brazil
+* 🇧🇷  **[Welcome to Brazil](https://welcometobrazil.online)** - Complete guide for foreigners to visit, live, and thrive in Brazil
 * 🌐 **[marcelodiani](https://github.com/MarceloBD/marcelodiani)** - My portfolio website ([marcelodiani.online](https://marcelodiani.online))
 * ♟️ **[vc-chess](https://github.com/MarceloBD/vc-chess)** - Real-time multiplayer chess game — no account required
 * 💵 **[vc-billings](https://github.com/MarceloBD/vc-billings)** - Personal monthly payment tracker (Next.js + Drizzle + Neon Postgres)
