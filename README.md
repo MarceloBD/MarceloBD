@@ -113,13 +113,13 @@ mission: "Improve people's lives through technology."
 ## Work Experience
 
 * 🚀 **[Clearer.io](https://clearer.io)** — Team Lead / Senior Full Stack Developer (2022–2025)
-  * Led two teams (7 devs). Managed 14+ Shopify apps with millions in annual revenue. Migrated infra from Heroku to AWS with CDK.
+  * Led two teams (7 devs). Managed 14+ Shopify ecommerce apps.
 * 🏪 **[Acesso Comercial](https://acessocomercial.com)** — Founder (2021–2022)
-  * Built a Shopify-like platform for small stores with ERP, CRM, blog, and omnichannel chat. Created ~600 stores.
+  * Built an ecommerce platform for small stores with ERP, CRM, blog, and omnichannel chat. Created ~600 stores.
 * 💰 **[Vórtx DTVM](https://vortx.com.br)** — Full Stack Developer (2020–2021)
-  * Digitized fund investment workflows at a financial company. Migrated 1,800 records from Excel to an automated platform.
+  * Digitized fund investment workflows at a financial company.
 * 📚 **[Ênfase Instituto Jurídico](https://enfase.com.br)** — Full Stack Developer Intern (2019–2020)
-  * Built a postgraduate platform and a law jobs platform from scratch, serving ~13,000 active students.
+  * Built a postgraduate platform from scratch for law students.
 
 ## Projects
 
