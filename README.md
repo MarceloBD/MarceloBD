@@ -113,7 +113,7 @@ mission: "Improve people's lives through technology."
 ## Work Experience
 
 * 🚀 **[Clearer.io](https://clearer.io)** — Team Lead / Senior Full Stack Developer (2022–2025)
-  * Led two teams (7 devs). Managed 14+ Shopify ecommerce apps.
+  * Managed 14+ Shopify ecommerce apps.
 * 🏪 **[Acesso Comercial](https://acessocomercial.com)** — Founder (2021–2022)
   * Built an ecommerce platform for small stores with ERP, CRM, blog, and omnichannel chat. Created ~600 stores.
 * 💰 **[Vórtx DTVM](https://vortx.com.br)** — Full Stack Developer (2020–2021)
