@@ -35,7 +35,44 @@
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Relay](https://img.shields.io/badge/Relay-F26B00?style=for-the-badge&logo=relay&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+![Styled Components](https://img.shields.io/badge/Styled_Components-DB7093?style=for-the-badge&logo=styledcomponents&logoColor=white)
+![Storybook](https://img.shields.io/badge/Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![REST](https://img.shields.io/badge/REST-009688?style=for-the-badge&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+![Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
+![BullMQ](https://img.shields.io/badge/BullMQ-E34F26?style=for-the-badge&logoColor=white)
+![WebSocket](https://img.shields.io/badge/WebSocket-010101?style=for-the-badge&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazondynamodb&logoColor=white)
+![Typesense](https://img.shields.io/badge/Typesense-D21F75?style=for-the-badge&logo=typesense&logoColor=white)
+![CDK](https://img.shields.io/badge/CDK-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![Lambda](https://img.shields.io/badge/Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
+![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
+![DataDog](https://img.shields.io/badge/DataDog-632CA6?style=for-the-badge&logo=datadog&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-000000?style=for-the-badge&logo=opentelemetry&logoColor=white)
+![LLMs](https://img.shields.io/badge/LLMs-6C63FF?style=for-the-badge&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-6C63FF?style=for-the-badge&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
+![Puppeteer](https://img.shields.io/badge/Puppeteer-40B5A4?style=for-the-badge&logo=puppeteer&logoColor=white)
+![SEO](https://img.shields.io/badge/SEO-47A248?style=for-the-badge&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
 
 </div>
 
@@ -77,7 +114,7 @@ mission: "Improve people's lives through technology."
 
 * 🚀 **[Clearer.io](https://clearer.io)** — Team Lead / Senior Full Stack Developer (2022–2025)
   * Led two teams (7 devs). Managed 14+ Shopify apps with millions in annual revenue. Migrated infra from Heroku to AWS with CDK.
-* 🏪 **Acesso Comercial** — Founder (2021–2022)
+* 🏪 **[Acesso Comercial](https://acessocomercial.com)** — Founder (2021–2022)
   * Built a Shopify-like platform for small stores with ERP, CRM, blog, and omnichannel chat. Created ~600 stores.
 * 💰 **[Vórtx DTVM](https://vortx.com.br)** — Full Stack Developer (2020–2021)
   * Digitized fund investment workflows at a financial company. Migrated 1,800 records from Excel to an automated platform.
@@ -86,8 +123,8 @@ mission: "Improve people's lives through technology."
 
 ## Projects
 
-### Side Projects
-
+* 🧠 **[Webrix](https://webrix.ai)** - Contributions to the secure MCP gateway connecting AI agents to enterprise systems
+* 🇧🇷 **[Welcome to Brazil](https://welcometobrazil.online)** - Complete guide for foreigners to visit, live, and thrive in Brazil
 * 🌐 **[marcelodiani](https://github.com/MarceloBD/marcelodiani)** - My portfolio website ([marcelodiani.online](https://marcelodiani.online))
 * ♟️ **[vc-chess](https://github.com/MarceloBD/vc-chess)** - Real-time multiplayer chess game — no account required
 * 💵 **[vc-billings](https://github.com/MarceloBD/vc-billings)** - Personal monthly payment tracker (Next.js + Drizzle + Neon Postgres)
@@ -95,19 +132,12 @@ mission: "Improve people's lives through technology."
 * 🔧 **[vc-plumbing-quote-landing](https://github.com/MarceloBD/vc-plumbing-quote-landing)** - Service quote landing page
 * 🚀 **[vc-product-landing-page](https://github.com/MarceloBD/vc-product-landing-page)** - Product launch landing page (Next.js + Framer Motion)
 * 🌍 **[language_translator](https://github.com/MarceloBD/language_translator)** - React Native + Python translator using LangGraph and OCR
-* 📖 **Learn Code** - Online interface to learn languages and frameworks through concepts and puzzles
-* 🎥 **Coding Classes** - Recorded coding classes teaching AI-assisted development techniques
+* 📖 **[Learn Code](https://github.com/MarceloBD/learn-code)** - Online interface to learn languages and frameworks through concepts and puzzles
+* 🎥 **[Coding Classes](https://vibecodingcomprogramacao.lovable.app)** - Recorded coding classes teaching AI-assisted development techniques
 * 🖼️ **Banner Generator** - Banner generation tool leveraging multiple LLMs for quality output
+* 💰 **[crypto-calculator](https://github.com/MarceloBD/crypto-calculator)** - Cryptocurrency calculator (JavaScript)
 * 🎮 **Platform Jump Game** - Unity C# mobile game with obstacles and global ranking on Google Play
-
-### Open Source Contributions
-
-* 🧠 **[agent-skills](https://github.com/webrix-ai/agent-skills)** - AI agent skills repository (Webrix AI)
-* 🔌 **[add-skills](https://github.com/webrix-ai/add-skills)** - The open agent skills tool
-* ⭐ **[skills](https://github.com/vercel-labs/skills)** - Vercel Labs open agent skills tool (8.9k stars)
-
-### Academic (USP)
-
+* 🐦 **[PicBird](https://github.com/MarceloBD/PicBird)** - Application for PIC 18f45k22 (C)
 * 🔬 **[opticalFiber](https://github.com/MarceloBD/opticalFiber)** - Optical fiber simulation (Matlab)
 * 🖥️ **[computerGraphics](https://github.com/MarceloBD/computerGraphics)** - Computer graphics rendering (C++)
 
