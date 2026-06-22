@@ -102,10 +102,10 @@ highlights:
 
 languages:
   - Portuguese: ████████████████████  native
-  - English:    ████████████████░░░░  advanced
-  - German:     ██████░░░░░░░░░░░░░░  basic
-  - Spanish:    ██████░░░░░░░░░░░░░░  basic
-  - Italian:    ██████░░░░░░░░░░░░░░  basic
+  - English: ████████████████░░░░  advanced
+  - German: ██████░░░░░░░░░░░░░░  basic
+  - Spanish: ██████░░░░░░░░░░░░░░  basic
+  - Italian: ██████░░░░░░░░░░░░░░  basic
 
 mission: "Improve people's lives through technology."
 ```
@@ -114,34 +114,35 @@ mission: "Improve people's lives through technology."
 
 ## Work Experience
 
-* 🚀 **[Clearer.io](https://clearer.io)** — Team Lead / Senior Full Stack Developer (2022–2025)
-  * Managed 14+ Shopify ecommerce apps.
-* 🏪 **[Acesso Comercial](https://acessocomercial.com)** — Founder (2021–2022)
-  * Built an ecommerce platform for small stores with ERP, CRM, blog, and omnichannel chat. Created ~600 stores.
-* 💰 **[Vórtx DTVM](https://vortx.com.br)** — Full Stack Developer (2020–2021)
-  * Digitized fund investment workflows at a financial company.
-* 📚 **[Ênfase Instituto Jurídico](https://enfase.com.br)** — Full Stack Developer Intern (2019–2020)
-  * Built a postgraduate platform from scratch for law students.
+- 🚀 **[Clearer.io](https://clearer.io)** — Team Lead / Senior Full Stack Developer (2022–2025)
+  - Managed 14+ Shopify ecommerce apps.
+- 🏪 **[Acesso Comercial](https://acessocomercial.com)** — Founder (2021–2022)
+  - Built an ecommerce platform for small stores with ERP, CRM, blog, and omnichannel chat. Created ~600 stores.
+- 💰 **[Vórtx DTVM](https://vortx.com.br)** — Full Stack Developer (2020–2021)
+  - Digitized fund investment workflows at a financial company.
+- 📚 **[Ênfase Instituto Jurídico](https://enfase.com.br)** — Full Stack Developer Intern (2019–2020)
+  - Built a postgraduate platform from scratch for law students.
 
 ## Projects
 
-* 🧠 **[Webrix](https://webrix.ai)** - Contributions to the secure MCP gateway connecting AI agents to enterprise systems
-* 🇧🇷  **[Welcome to Brazil](https://welcometobrazil.online)** - Complete guide for foreigners to visit, live, and thrive in Brazil
-* 🌐 **[marcelodiani](https://github.com/MarceloBD/marcelodiani)** - My portfolio website ([marcelodiani.online](https://marcelodiani.online))
-* ♟️ **[vc-chess](https://github.com/MarceloBD/vc-chess)** - Real-time multiplayer chess game — no account required
-* 💵 **[vc-billings](https://github.com/MarceloBD/vc-billings)** - Personal monthly payment tracker (Next.js + Drizzle + Neon Postgres)
-* 🛍️ **[vc-ecommerce](https://github.com/MarceloBD/vc-ecommerce)** - E-commerce storefront template
-* 🔧 **[vc-plumbing-quote-landing](https://github.com/MarceloBD/vc-plumbing-quote-landing)** - Service quote landing page
-* 🚀 **[vc-product-landing-page](https://github.com/MarceloBD/vc-product-landing-page)** - Product launch landing page (Next.js + Framer Motion)
-* 🌍 **[language_translator](https://github.com/MarceloBD/language_translator)** - React Native + Python translator using LangGraph and OCR
-* 📖 **[Learn Code](https://github.com/MarceloBD/learn-code)** - Online interface to learn languages and frameworks through concepts and puzzles
-* 🎥 **[Coding Classes](https://vibecodingcomprogramacao.lovable.app)** - Recorded coding classes teaching AI-assisted development techniques
-* 🖼️ **Banner Generator** - Banner generation tool leveraging multiple LLMs for quality output
-* 💰 **[crypto-calculator](https://github.com/MarceloBD/crypto-calculator)** - Cryptocurrency calculator (JavaScript)
-* 🎮 **Platform Jump Game** - Unity C# mobile game with obstacles and global ranking on Google Play
-* 🐦 **[PicBird](https://github.com/MarceloBD/PicBird)** - Application for PIC 18f45k22 (C)
-* 🔬 **[opticalFiber](https://github.com/MarceloBD/opticalFiber)** - Optical fiber simulation (Matlab)
-* 🖥️ **[computerGraphics](https://github.com/MarceloBD/computerGraphics)** - Computer graphics rendering (C++)
+- 🔍 **[BoolTools SEO Crawler](https://github.com/MarceloBD/booltools-seo-crawler)** - Open-source SEO/GEO auditing tool for optimizing search engine and AI search visibility
+- 🧠 **[WithWillow](https://withwillow.ai)** - Contributions to the secure MCP gateway connecting AI agents to enterprise systems
+- 🇧🇷 **[Welcome to Brazil](https://welcometobrazil.online)** - Complete guide for foreigners to visit, live, and thrive in Brazil
+- 🌐 **[marcelodiani](https://github.com/MarceloBD/marcelodiani)** - My portfolio website ([marcelodiani.online](https://marcelodiani.online))
+- ♟️ **[vc-chess](https://github.com/MarceloBD/vc-chess)** - Real-time multiplayer chess game — no account required
+- 💵 **[vc-billings](https://github.com/MarceloBD/vc-billings)** - Personal monthly payment tracker (Next.js + Drizzle + Neon Postgres)
+- 🛍️ **[vc-ecommerce](https://github.com/MarceloBD/vc-ecommerce)** - E-commerce storefront template
+- 🔧 **[vc-plumbing-quote-landing](https://github.com/MarceloBD/vc-plumbing-quote-landing)** - Service quote landing page
+- 🚀 **[vc-product-landing-page](https://github.com/MarceloBD/vc-product-landing-page)** - Product launch landing page (Next.js + Framer Motion)
+- 🌍 **[language_translator](https://github.com/MarceloBD/language_translator)** - React Native + Python translator using LangGraph and OCR
+- 📖 **[Learn Code](https://github.com/MarceloBD/learn-code)** - Online interface to learn languages and frameworks through concepts and puzzles
+- 🎥 **[Coding Classes](https://vibecodingcomprogramacao.lovable.app)** - Recorded coding classes teaching AI-assisted development techniques
+- 🖼️ **Banner Generator** - Banner generation tool leveraging multiple LLMs for quality output
+- 💰 **[crypto-calculator](https://github.com/MarceloBD/crypto-calculator)** - Cryptocurrency calculator (JavaScript)
+- 🎮 **Platform Jump Game** - Unity C# mobile game with obstacles and global ranking on Google Play
+- 🐦 **[PicBird](https://github.com/MarceloBD/PicBird)** - Application for PIC 18f45k22 (C)
+- 🔬 **[opticalFiber](https://github.com/MarceloBD/opticalFiber)** - Optical fiber simulation (Matlab)
+- 🖥️ **[computerGraphics](https://github.com/MarceloBD/computerGraphics)** - Computer graphics rendering (C++)
 
 ---
 
@@ -184,7 +185,7 @@ mission: "Improve people's lives through technology."
 <a href="https://marcelodiani.online"><img src="https://img.shields.io/badge/-marcelodiani.online-6C63FF?style=flat&logo=googlechrome&logoColor=white"/></a>
 <a href="https://github.com/MarceloBD"><img src="https://img.shields.io/badge/-MarceloBD-181717?style=flat&logo=GitHub&logoColor=white"/></a>
 
-*"My mission is to improve people's lives through technology."*
+_"My mission is to improve people's lives through technology."_
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> <b>I love connecting with people</b> — if you want to say <b>hi, I'll be happy to meet you!</b>
 
