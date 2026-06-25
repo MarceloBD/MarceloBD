@@ -125,7 +125,7 @@ mission: "Improve people's lives through technology."
 
 ## Projects
 
-- 🔍 **[BoolTools SEO Crawler](https://github.com/MarceloBD/booltools-seo-crawler)** - Open-source SEO/GEO auditing tool for optimizing search engine and AI search visibility
+- 🔍 **[BoolTools SEO Crawler](https://github.com/booltools/booltools-seo-crawler)** - Open-source SEO/GEO auditing tool for optimizing search engine and AI search visibility
 - 🧠 **[WithWillow](https://withwillow.ai)** - Contributions to the secure MCP gateway connecting AI agents to enterprise systems
 - 🇧🇷 **[Welcome to Brazil](https://welcometobrazil.online)** - Complete guide for foreigners to visit, live, and thrive in Brazil
 - 🌐 **[marcelodiani](https://github.com/MarceloBD/marcelodiani)** - My portfolio website ([marcelodiani.online](https://marcelodiani.online))
