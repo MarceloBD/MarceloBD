@@ -1,8 +1,8 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:6c63ff&height=220&section=header&text=Marcelo%20B.%20Diani&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Senior%20Full%20Stack%20and%20DevOps%20%7C%20Team%20Lead%20%7C%20E-commerce%20and%20AI%20Specialist&descSize=16&descAlignY=55&descColor=a9a9ff" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:6c63ff&height=220&section=header&text=Marcelo%20B.%20Diani&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Senior%20Full%20Stack%20Developer%20%7C%20Team%20Lead%20%7C%20E-commerce%20and%20AI%20Specialist&descSize=16&descAlignY=55&descColor=a9a9ff" />
 
 <div align="center">
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=600&lines=Senior+Full+Stack+%26+DevOps+Engineer;E-commerce+%26+AI+Specialist;7%2B+years+building+with+TypeScript;Top+4%25+Cursor+user+in+2025;Building+the+future+with+code" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=600&lines=Senior+Full+Stack+Developer;E-commerce+%26+AI+Specialist;7%2B+years+building+with+TypeScript;Top+4%25+Cursor+AI+user+in+2025;EdTech+%7C+FinTech+%7C+E-commerce;Building+the+future+with+code" alt="Typing SVG" /></a>
 
 <br/>
 
@@ -75,6 +75,16 @@
 ![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white)
+![Astro](https://img.shields.io/badge/Astro-BC52EE?style=for-the-badge&logo=astro&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Tauri](https://img.shields.io/badge/Tauri-24C8D8?style=for-the-badge&logo=tauri&logoColor=white)
+![Electron](https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white)
+![Shopify](https://img.shields.io/badge/Shopify-7AB55C?style=for-the-badge&logo=shopify&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![MCP](https://img.shields.io/badge/MCP-6C63FF?style=for-the-badge&logoColor=white)
+![ClickHouse](https://img.shields.io/badge/ClickHouse-FFCC01?style=for-the-badge&logo=clickhouse&logoColor=black)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 </div>
 
@@ -83,21 +93,22 @@
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> About Me
 
 ```yaml
-name: Marcelo B. Bertoldi Diani
+name: Marcelo Bertoldi Diani
 located_in: Brazil
 education: Computer Engineering - University of São Paulo (USP), 2019
 experience: 7+ years
 
 roles:
   - Senior Full Stack Developer
-  - DevOps Engineer
   - Team Lead
+  - Scrum Master
   - Founder
 
 highlights:
-  - Mathematics Olympiad medalist
-  - Top 4% Cursor user in 2025
-  - E-commerce specialist maximizing online sales
+  - Mathematics Olympiad gold medalist (OBMEP)
+  - Top 4% Cursor AI user worldwide in 2025
+  - Led teams of up to 6 developers managing 14 Shopify apps
+  - Worked in EdTech, FinTech and E-commerce companies
   - AI enthusiast & early adopter
 
 languages:
@@ -105,7 +116,6 @@ languages:
   - English: ████████████████░░░░  advanced
   - German: ██████░░░░░░░░░░░░░░  basic
   - Spanish: ██████░░░░░░░░░░░░░░  basic
-  - Italian: ██████░░░░░░░░░░░░░░  basic
 
 mission: "Improve people's lives through technology."
 ```
@@ -114,20 +124,26 @@ mission: "Improve people's lives through technology."
 
 ## Work Experience
 
-- 🚀 **[Clearer.io](https://clearer.io)** — Team Lead / Senior Full Stack Developer (2022–2025)
-  - Managed 14+ Shopify ecommerce apps.
+- 🌐 **[WithWillow.ai](https://withwillow.ai)** — Freelancer (2026)
+  - Created a marketplace with 1,000+ MCPs for enterprise companies. Cloudflare workers, Webflow to Next.js migration, SEO optimization.
+- 🚀 **[Clearer.io](https://clearer.io)** — Senior Full Stack Developer / Team Lead / Scrum Master (2022–2025)
+  - Led two teams (3 and 6 developers). Managed 14 Shopify apps with multi-million dollar annual revenue.
 - 🏪 **[Acesso Comercial](https://acessocomercial.com)** — Founder (2021–2022)
-  - Built an ecommerce platform for small stores with ERP, CRM, blog, and omnichannel chat. Created ~600 stores.
+  - Built an e-commerce platform (Shopify alternative) with ERP, CRM, SSR blog, and omnichannel chat. 5 microservices. 600+ stores. 1,000+ tests.
 - 💰 **[Vórtx DTVM](https://vortx.com.br)** — Full Stack Developer (2020–2021)
-  - Digitized fund investment workflows at a financial company.
+  - Upgraded legacy Angular/.NET platform. 3 microservices, 2 Lambdas. Migrated 1,800 Excel records. 200K dynamic PDFs.
 - 📚 **[Ênfase Instituto Jurídico](https://enfase.com.br)** — Full Stack Developer Intern (2019–2020)
-  - Built a postgraduate platform from scratch for law students.
+  - Developed 2 platforms from scratch for 13,000+ law students with Kafka event-driven analytics.
 
 ## Projects
 
-- 🔍 **[BoolTools SEO Crawler](https://github.com/booltools/booltools-seo-crawler)** - Open-source SEO/GEO auditing tool for optimizing search engine and AI search visibility
+- 📖 **[Fast Read](https://fastread.marcelodiani.online/)** - Cross-platform speed reading web and desktop app using RSVP with ORP highlighting ([repo](https://github.com/MarceloBD/fast-readd))
+- 🎮 **[Design Patterns Quest](https://designpatterns.marcelodiani.online/)** - Interactive learning platform for mastering all 22 GoF design patterns through RPG-style experience ([repo](https://github.com/MarceloBD/design-patternss))
+- 🌐 **[Browser Pal](https://github.com/MarceloBD/browser-pal)** - AI-driven browser with MCP orchestration, request interception, ad blocker, and crypto wallet
+- 📊 **[Companies Data Visualizer](https://github.com/MarceloBD/companies-data-visualizer)** - Big data pipeline for 70M+ companies from government data (Go, PostgreSQL, Astro)
+- 🔍 **[BoolTools](https://github.com/booltools/booltools-seo-crawler)** - Open-source SEO/GEO, GDPR, Security, and Page Speed auditing tools
 - 🧠 **[WithWillow](https://withwillow.ai)** - Contributions to the secure MCP gateway connecting AI agents to enterprise systems
-- 🇧🇷 **[Welcome to Brazil](https://welcometobrazil.online)** - Complete guide for foreigners to visit, live, and thrive in Brazil
+- 🇧🇷 **[Welcome to Brazil](https://welcometobrazil.online)** - Complete guide for foreigners to visit, live, and thrive in Brazil with interactive maps
 - 🌐 **[marcelodiani](https://github.com/MarceloBD/marcelodiani)** - My portfolio website ([marcelodiani.online](https://marcelodiani.online))
 - ♟️ **[vc-chess](https://github.com/MarceloBD/vc-chess)** - Real-time multiplayer chess game — no account required
 - 💵 **[vc-billings](https://github.com/MarceloBD/vc-billings)** - Personal monthly payment tracker (Next.js + Drizzle + Neon Postgres)
@@ -138,7 +154,7 @@ mission: "Improve people's lives through technology."
 - 📖 **[Learn Code](https://github.com/MarceloBD/learn-code)** - Online interface to learn languages and frameworks through concepts and puzzles
 - 🎥 **[Coding Classes](https://vibecodingcomprogramacao.lovable.app)** - Recorded coding classes teaching AI-assisted development techniques
 - 🖼️ **Banner Generator** - Banner generation tool leveraging multiple LLMs for quality output
-- 💰 **[crypto-calculator](https://github.com/MarceloBD/crypto-calculator)** - Cryptocurrency calculator (JavaScript)
+- 💰 **[crypto-calculator](https://github.com/MarceloBD/crypto-calculator)** - Open-source crypto tax calculator for Brazilian taxes (JavaScript)
 - 🎮 **Platform Jump Game** - Unity C# mobile game with obstacles and global ranking on Google Play
 - 🐦 **[PicBird](https://github.com/MarceloBD/PicBird)** - Application for PIC 18f45k22 (C)
 - 🔬 **[opticalFiber](https://github.com/MarceloBD/opticalFiber)** - Optical fiber simulation (Matlab)
